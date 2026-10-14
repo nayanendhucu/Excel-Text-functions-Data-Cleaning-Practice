@@ -1,0 +1,17 @@
+No.,Excel Function,Question / Task
+1,UPPER,Convert all the model names into uppercase.
+2,LOWER,Convert all the model names into lowercase.
+3,PROPER,Convert all the country names into proper case.
+4,LEN,Find the length of all the model names.
+5,LEFT,"Using the LEFT function, extract the specified number of characters from the beginning of all the country names."
+6,RIGHT,"Using the RIGHT function, extract the specified number of characters from the end of all the country names."
+7,MID,"Using the MID function, extract the middle part of the combined Year, Model and Fuel Type data."
+8,TRIM,Use the TRIM function to eliminate unnecessary spaces from the country names.
+9,FIND,Use the FIND function to find the specified character in the country names. (FIND is case-sensitive.)
+10,SEARCH,Use the SEARCH function to find the specified character in the country names. (SEARCH is not case-sensitive.)
+11,SUBSTITUTE,"The company made a mistake in the color pattern data. The color is entered as Red, but it should be Maroon. Use the SUBSTITUTE function to change Red to Maroon."
+12,REPLACE,"Replace the model 3567 of the series with SRS, using the REPLACE function, where the series itself should be represented as SRS in capital letters."
+13,CONCATENATE,"Using the CONCATENATE function, combine the Model and Fuel Type."
+14,TEXTJOIN,"Using the TEXTJOIN function, join the Year, Model and Fuel Type."
+15,TEXTSPLIT,"Using the TEXTSPLIT function, split the combined Year, Model and Fuel Type data."
+16,MID + TEXTJOIN,"Using TEXTJOIN, combine the Year, Model and Fuel Type, and then use the MID function to extract the middle part of the combined data."
